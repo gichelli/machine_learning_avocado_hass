@@ -8,13 +8,13 @@
 - [Acknowledgements](#Acknowledgements)
 
 ## Installation <a name="Installation"></a>
-Anaconda Distribution of Python.
-Sklearn
-Numpy
-Seaborn
-Statsmodels
-Scipy
-Patsy
+Anaconda Distribution of Python  
+Sklearn  
+Numpy  
+Seaborn  
+Statsmodels  
+Scipy  
+Patsy  
 
 
 This project follows the CRISP-DM Process (Cross Industry Process for Data Mining)
