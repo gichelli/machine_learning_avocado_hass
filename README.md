@@ -47,7 +47,7 @@ We are working with one set of data belonging to avocado sales information in Un
 We do this to see how well our model fits.
 
 ## Results <a name="Results"></a>
-The main findings of the code can be found at the post available [here](https://gichellivento.medium.com/i-used-a-simple-data-file-to-get-my-boston-apartment-in-airbnb-943669d49e78).
+The main findings of the code can be found at the post available [here](https://medium.com/p/433322a88012/edit).
 
  ## FilesDescription <a name="FilesDescription"></a>
 
