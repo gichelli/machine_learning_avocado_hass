@@ -47,11 +47,11 @@ We are working with one set of data belonging to avocado sales information in Un
 We do this to see how well our model fits.
 
 ## Results <a name="Results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/p/433322a88012/edit).
+The main findings of the code can be found at the post available [here](https://gichellivento.medium.com/avocado-hass-market-in-united-states-433322a88012).
 
  ## FilesDescription <a name="FilesDescription"></a>
 
- There is only one notebook that was used to work on this project: prepare_data.ipynb -> This notebook was used to prepare, analyze and visualize the data.
+ There is only one notebook that was used to work on this project: avocado.ipynb -> This notebook was used to prepare, analyze and visualize the data.
  
  ## Acknowledgements <a name="Acknowledgements"></a>
  We have our data from internet. We are going to use Avocado Prices data csv file that we found in [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices) and Hass Avocado Board [here](https://hassavocadoboard.com/).# disaster-response-data-science
